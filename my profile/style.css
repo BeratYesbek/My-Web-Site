@@ -1,0 +1,44 @@
+*{
+    margin: auto;
+}
+body {
+    background: #292b2c;
+}
+#main{
+    height: 100%;
+    margin-top: 1rem;
+    border: 1px solid #f0ad4e;
+   
+}
+#title {
+    padding-top: 10rem;
+    text-align: center;
+    color: #fff;
+}
+
+#picture{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 1rem;
+    border: 1px solid #f0ad4e;
+}
+#picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+#picture h1{
+    color: #fff;
+}
+#content{
+    margin-top: 100px;
+}
+#content h3{
+    color: #fff;
+}
+#content p  {
+    color: #5bc0de
+    ;
+    text-align: justify;
+}
