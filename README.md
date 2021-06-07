@@ -8,7 +8,7 @@ Bölüm = Bilgisayar Mühendisliği
 
 -------------------------------------Açıklama------------------------------------------------
  <br/>
-phpmyadmin kullanılarak SQl sorguları yazılıp veriler çekildi.
+phpmyadmin kullanılarak SQL sorguları yazılıp veriler çekildi.
  <br/>
  phpStorm IDE si kullanıldı.
  <br/>
