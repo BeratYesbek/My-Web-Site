@@ -2,10 +2,8 @@
 
 Ad Soyad = Berat Yeşbek 
  <br/>
-
 Okul no = 201502212 
  <br/>
-
 Bölüm = Bilgisayar Mühendisliği
 
 
@@ -24,43 +22,29 @@ Bütün isterler tamamlandı
  <br/>
 •	Makaleler
  <br/>
-
 •	Anket, Form
  <br/>
-
 •	Projeler
  <br/>
-
 •	Google Maps
  <br/>
-
 •	Site içi arama
  <br/>
-
 •	Haberler, Duyurular
  <br/>
-
 •	Finans Verileri
  <br/>
-
 •	Animasyon Alanı
  <br/>
-
 •	Sosyal Medya Entegrasyonu
  <br/>
-
 •	Foto Galeri
  <br/>
-
 •	Video Galeri
  <br/>
-
 •	CV
-
  <br/>
-
 •	Üyelik Sistemi
-
  <br/>
 
 
