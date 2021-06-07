@@ -1,32 +1,68 @@
 # php_my_web_site
 
 Ad Soyad = Berat Yeşbek 
+ <br/>
+
 Okul no = 201502212 
+ <br/>
+
 Bölüm = Bilgisayar Mühendisliği
 
 
 -- Özgeçmiş, cv, google maps tarzındaki bilgiler sahte olarak hazırlandı.
 
 --Materyaller---
+ <br/>
+
 MySql,Fontawasome,google fonts
 
 
 Bütün isterler tamamlandı
  •Blog
+  <br/>
 •	Özgeçmiş
+ <br/>
 •	Makaleler
+ <br/>
+
 •	Anket, Form
+ <br/>
+
 •	Projeler
+ <br/>
+
 •	Google Maps
+ <br/>
+
 •	Site içi arama
+ <br/>
+
 •	Haberler, Duyurular
+ <br/>
+
 •	Finans Verileri
+ <br/>
+
 •	Animasyon Alanı
+ <br/>
+
 •	Sosyal Medya Entegrasyonu
+ <br/>
+
 •	Foto Galeri
+ <br/>
+
 •	Video Galeri
+ <br/>
+
 •	CV
+
+ <br/>
+
 •	Üyelik Sistemi
+
+ <br/>
+
 
 
 
