@@ -6,12 +6,19 @@ Okul no = 201502212
  <br/>
 Bölüm = Bilgisayar Mühendisliği
 
+-------------------------------------Açıklama------------------------------------------------
+ <br/>
+phpmyadmin kullanılarak SQl sorguları yazılıp veriler çekildi.
+ <br/>
+ phpStorm IDE si kullanıldı.
+ <br/>
+ Özgeçmiş, cv, google maps tarzındaki bilgiler sahte olarak hazırlandı.
 
--- Özgeçmiş, cv, google maps tarzındaki bilgiler sahte olarak hazırlandı.
+
+
 
 --Materyaller---
  <br/>
-
 MySql,Fontawasome,google fonts
 
 
