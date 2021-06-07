@@ -1,0 +1,67 @@
+body{
+    background-image: url('http://localhost/my_web_site/view/public/img/background.jpg');
+    cursor: default;
+}
+
+#title{
+    color: #fff;
+}
+
+#description{
+    color: #ffff;
+    text-align: justify;
+
+}
+
+#myimage-box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#myimage-box h4{
+    color: #CBD685;
+}
+#image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #FF5733 ;
+}
+#image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+
+}
+
+#news-image img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border-radius: 20px;
+
+}
+#news-image{
+    width: 100%;
+    height: 100%;
+}
+#box{
+    width: 100%;
+    border-radius: 20px;
+    background-color: #fff;
+}
+#box p {
+    text-align: justify;
+}
+
+li {
+    list-style: none;
+    margin-top: 15px;
+
+    padding: 0 0.5em;
+    overflow: hidden;
+}
+
+li.show {
+    margin: 2px 0;
+}

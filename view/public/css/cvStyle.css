@@ -1,0 +1,16 @@
+body{
+    background-image: url('http://localhost/my_web_site/view/public/img/background.jpg');
+    cursor: default;
+}
+
+
+.pdf-viewer{
+    width: 1000px;
+    height: 100%;
+    position: fixed;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+
+}

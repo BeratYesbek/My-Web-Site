@@ -1,0 +1,90 @@
+body{
+    background-image: url('http://localhost/my_web_site/view/public/img/background.jpg');
+    cursor: default;
+}
+li{
+    list-style: none;
+    float: left;
+}
+#box {
+    width: 400px;
+    height: 420px;
+    border: 2px solid #FF5733;
+    border-radius: 10px;
+    margin: 10px;
+}
+#image-project {
+    width: 400px;
+    height: 200px;
+    padding-right: 5px;
+    border-bottom: 1px solid #FF5733;
+}
+
+#image-project img {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    transition: all 0.5s;
+
+}
+#projects a {
+    text-decoration: none;
+
+}
+#projects a:hover img   {
+    opacity: 0.5;
+    background-color: #FF5733;
+}
+#box-content{
+    margin: 10px;
+
+}
+
+#box-content p{
+    text-align: justify;
+    margin-top:10px;
+    font-size: 14px;
+    color: azure;
+
+}
+
+#box-content #title {
+    margin-top: 10px;
+}
+
+#box-content i{
+    color: yellow;
+}
+
+
+#title{
+    color: #fff;
+}
+
+#description{
+    color: #ffff;
+    text-align: justify;
+
+}
+
+#myimage-box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#myimage-box h4{
+    color: #CBD685;
+}
+#image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #FF5733 ;
+}
+#image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+
+}

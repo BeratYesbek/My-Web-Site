@@ -1,0 +1,130 @@
+#mySidenav{
+    width: 250px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    margin: auto;
+    left: 0;
+    background-color: #FF5733;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    display: inline-block;
+
+}
+
+
+
+#nav-button i {
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 30px;
+    top: 0;
+    position: relative;
+
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    display: block;
+    transition: 0.3s;
+    margin: auto;
+}
+
+.sidenav a:hover {
+    color: #85D694;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+@media screen and (max-height:550px) {
+    #mySidenav{
+        visibility: hidden;
+    }
+}
+
+#image-box {
+    width: 160px;
+    height: 160px;
+    margin: auto;
+
+    border-radius: 50%;
+    border: 2px solid #ffc107;
+}
+
+#image-box img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#userName {
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Pattaya', sans-serif;
+
+}
+
+#links {
+    margin-top: 80px;
+}
+#title{
+    color: #fff;
+}
+
+#description{
+    color: #ffff;
+    text-align: justify;
+
+}
+
+#myimage-box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#myimage-box h4{
+    color: #CBD685;
+}
+#image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 2px solid #FF5733 ;
+}
+#image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+
+}
+#mySidenav a{
+    text-decoration: none;
+}

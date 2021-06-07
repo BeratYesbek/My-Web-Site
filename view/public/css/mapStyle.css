@@ -1,0 +1,14 @@
+body{
+    background-image: url('http://localhost/my_web_site/view/public/img/background.jpg');
+    cursor: default;
+}
+
+
+/* Set the size of the div element that contains the map */
+#map {
+    height: 800px;
+    /* The height is 400 pixels */
+    width: 100%;
+    border-radius: 20px;
+    /* The width is the width of the web page */
+}
