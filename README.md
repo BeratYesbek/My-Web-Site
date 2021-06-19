@@ -38,10 +38,7 @@ Bütün isterler tamamlandı
  <br/>
 •	Haberler, Duyurular
  <br/>
-•	Finans Verileri
- <br/>
-•	Animasyon Alanı
- <br/>
+ 
 •	Sosyal Medya Entegrasyonu
  <br/>
 •	Foto Galeri
