@@ -35,7 +35,6 @@ Bütün isterler tamamlandı
  <br/>
 •	Google Maps
  <br/>
-•	Site içi arama
  <br/>
 •	Haberler, Duyurular
  <br/>
