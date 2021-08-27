@@ -1,55 +1,5 @@
 # php_my_web_site
 
-Ad Soyad = Berat Yeşbek 
- <br/>
-Okul no = 201502212 
- <br/>
-Bölüm = Bilgisayar Mühendisliği
-
--------------------------------------Açıklama------------------------------------------------
- <br/>
-phpmyadmin kullanılarak SQL sorguları yazılıp veriler çekildi.
- <br/>
- phpStorm IDE si kullanıldı.
- <br/>
- Özgeçmiş, cv, google maps tarzındaki bilgiler sahte olarak hazırlandı.
-
-
-
-
---Materyaller---
- <br/>
-MySql,Fontawasome,google fonts
-
-
-Bütün isterler tamamlandı
- •Blog
-  <br/>
-•	Özgeçmiş
- <br/>
-•	Makaleler
- <br/>
-•	Anket, Form
- <br/>
-•	Projeler
- <br/>
-•	Google Maps
- <br/>
- <br/>
-•	Haberler, Duyurular
- <br/>
- 
-•	Sosyal Medya Entegrasyonu
- <br/>
-•	Foto Galeri
- <br/>
-•	Video Galeri
- <br/>
-•	CV
- <br/>
-•	Üyelik Sistemi
- <br/>
-
 
 
 
